@@ -14,7 +14,7 @@ libraryDependencies ++= Seq(
   "biz.paluch.redis" % "lettuce" % "5.0.0.Beta1",
   "org.scala-lang.modules" % "scala-java8-compat_2.11" % "0.8.0",
   "com.typesafe.akka" %% "akka-stream-kafka" % "0.11-RC1",
-  "com.github.kliewkliew" %% "salad" % "0.11.01",
+  "com.github.kliewkliew" %% "salad" % "0.11.04",
   "org.slf4j" % "slf4j-log4j12" % "1.7.22"
 )
 
